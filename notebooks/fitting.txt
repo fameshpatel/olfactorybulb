@@ -1,0 +1,3377 @@
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+]0;IPython: OlfactoryBulb/notebooksCould not load NEURONBackend
+Could not load GLIFBackend
+2
+('Starting gc FITTER for model:', 'prev_ob_models.Birgiolas2020.isolated_cells.GC2')
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('STARTED GEN', 'ZERO', 'size', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 1, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '10.85')
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 2, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '6.96')
+('DONE with', 3, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '18.85')
+('DONE with', 4, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '10.07')
+('DONE with', 5, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '11.31')
+('DONE with', 6, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '18.48')
+('DONE with', 7, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '17.33')
+('DONE with', 8, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '11.07')
+('DONE with', 9, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '14.52')
+('DONE with', 10, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '9.81')
+('DONE with', 11, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '9.44')
+('DONE with', 12, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '18.09')
+('DONE with', 13, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '18.13')
+('DONE with', 14, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '33.78')
+('DONE with', 15, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '7.41')
+('DONE with', 16, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '11.25')
+('DONE with', 17, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '7.53')
+('DONE with', 18, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '10.45')
+('DONE with', 19, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '12.64')
+('DONE with', 20, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '18.06')
+('DONE with', 21, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '50.33')
+('DONE with', 22, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '18.81')
+('DONE with', 23, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '15.65')
+('DONE with', 24, 'of', 24, 'of GEN', 'ZERO', 'with Fitness', '17.41')
+('GEN', 1, 'Parents', 4, 'Elite', 12, 'DIV', 6, 'RND', 6, 'TOT NEW', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('STARTED GEN', '1', 'size', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 1, 'of', 24, 'of GEN', '1', 'with Fitness', '16.69')
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 2, 'of', 24, 'of GEN', '1', 'with Fitness', '24.55')
+('DONE with', 3, 'of', 24, 'of GEN', '1', 'with Fitness', '12.86')
+('DONE with', 4, 'of', 24, 'of GEN', '1', 'with Fitness', '10.03')
+('DONE with', 5, 'of', 24, 'of GEN', '1', 'with Fitness', '14.82')
+('DONE with', 6, 'of', 24, 'of GEN', '1', 'with Fitness', '37.41')
+('DONE with', 7, 'of', 24, 'of GEN', '1', 'with Fitness', '52.27')
+('DONE with', 8, 'of', 24, 'of GEN', '1', 'with Fitness', '12.90')
+('DONE with', 9, 'of', 24, 'of GEN', '1', 'with Fitness', '13.32')
+('DONE with', 10, 'of', 24, 'of GEN', '1', 'with Fitness', '7.47')
+('DONE with', 11, 'of', 24, 'of GEN', '1', 'with Fitness', '8.33')
+('DONE with', 12, 'of', 24, 'of GEN', '1', 'with Fitness', '19.58')
+('DONE with', 13, 'of', 24, 'of GEN', '1', 'with Fitness', '7.58')
+('DONE with', 14, 'of', 24, 'of GEN', '1', 'with Fitness', '22.54')
+('DONE with', 15, 'of', 24, 'of GEN', '1', 'with Fitness', '9.44')
+('DONE with', 16, 'of', 24, 'of GEN', '1', 'with Fitness', '10.63')
+('DONE with', 17, 'of', 24, 'of GEN', '1', 'with Fitness', '8.38')
+('DONE with', 18, 'of', 24, 'of GEN', '1', 'with Fitness', '9.46')
+('DONE with', 19, 'of', 24, 'of GEN', '1', 'with Fitness', '18.26')
+('DONE with', 20, 'of', 24, 'of GEN', '1', 'with Fitness', '15.35')
+('DONE with', 21, 'of', 24, 'of GEN', '1', 'with Fitness', '6.96')
+('DONE with', 22, 'of', 24, 'of GEN', '1', 'with Fitness', '18.15')
+('DONE with', 23, 'of', 24, 'of GEN', '1', 'with Fitness', '9.41')
+('DONE with', 24, 'of', 24, 'of GEN', '1', 'with Fitness', '9.44')
+('Generation', 1, 'out of', 15, 'COMPLETE')
+('Best fitness:', 6.96021449507883)
+('Best individual', [0.9960639622599059, 19.813719434392077, 2.0448294681280075, 33.07973918137748, -56.05609065228973, -57.15369007623954, 0.00018176281971213042, 5.368820327884881, 0.04192323762736872, 0.07404613250784663, 0.009487770010455523, -30.68335168472956, 8.63024873590661e-07, 0.00765970994269972])
+diam in ['apical'] at 30.90% of range. Val: 0.99606396226 Low: 0.1 High: 3.0
+Ra in ['all'] at 98.76% of range. Val: 19.8137194344 Low: 5.0 High: 20.0
+cm in ['all'] at 49.87% of range. Val: 2.04482946813 Low: 0.1 High: 4.0
+ena in ['all'] at 57.70% of range. Val: 33.0797391814 Low: 10.0 High: 50.0
+ek in ['all'] at 62.78% of range. Val: -56.0560906523 Low: -100.0 High: -30.0
+e_pas in ['all'] at 85.69% of range. Val: -57.1536900762 Low: -100.0 High: -50.0
+g_pas in ['all'] at 90.88% of range. Val: 0.000181762819712 Low: 0 High: 0.0002
+sh_Na in ['all'] at 53.69% of range. Val: 5.36882032788 Low: 0 High: 10
+gbar_Na in ['all'] at 83.85% of range. Val: 0.0419232376274 Low: 0 High: 0.05
+gbar_Kd in ['all'] at 74.05% of range. Val: 0.0740461325078 Low: 0 High: 0.1
+gbar_KA in ['somatic'] at 94.88% of range. Val: 0.00948777001046 Low: 0 High: 0.01
+eh in ['somatic'] at 55.19% of range. Val: -30.6833516847 Low: -50.0 High: -15.0
+gbar_Ih in ['somatic'] at 86.30% of range. Val: 8.63024873591e-07 Low: 0 High: 1e-06
+gbar_KM in ['somatic'] at 5.89% of range. Val: 0.0076597099427 Low: 0 High: 0.13
+('GEN', 2, 'Parents', 4, 'Elite', 12, 'DIV', 6, 'RND', 6, 'TOT NEW', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('STARTED GEN', '2', 'size', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 1, 'of', 24, 'of GEN', '2', 'with Fitness', '29.87')
+('DONE with', 2, 'of', 24, 'of GEN', '2', 'with Fitness', '14.82')
+('DONE with', 3, 'of', 24, 'of GEN', '2', 'with Fitness', '29.91')
+('DONE with', 4, 'of', 24, 'of GEN', '2', 'with Fitness', '14.72')
+('DONE with', 5, 'of', 24, 'of GEN', '2', 'with Fitness', '15.36')
+('DONE with', 6, 'of', 24, 'of GEN', '2', 'with Fitness', '14.61')
+('DONE with', 7, 'of', 24, 'of GEN', '2', 'with Fitness', '6.97')
+('DONE with', 8, 'of', 24, 'of GEN', '2', 'with Fitness', '10.18')
+('DONE with', 9, 'of', 24, 'of GEN', '2', 'with Fitness', '9.65')
+('DONE with', 10, 'of', 24, 'of GEN', '2', 'with Fitness', '11.50')
+('DONE with', 11, 'of', 24, 'of GEN', '2', 'with Fitness', '6.28')
+('DONE with', 12, 'of', 24, 'of GEN', '2', 'with Fitness', '9.90')
+('DONE with', 13, 'of', 24, 'of GEN', '2', 'with Fitness', '12.91')
+('DONE with', 14, 'of', 24, 'of GEN', '2', 'with Fitness', '15.09')
+('DONE with', 15, 'of', 24, 'of GEN', '2', 'with Fitness', '21.73')
+('DONE with', 16, 'of', 24, 'of GEN', '2', 'with Fitness', '5.17')
+('DONE with', 17, 'of', 24, 'of GEN', '2', 'with Fitness', '6.96')
+('DONE with', 18, 'of', 24, 'of GEN', '2', 'with Fitness', '7.98')
+('DONE with', 19, 'of', 24, 'of GEN', '2', 'with Fitness', '7.01')
+('DONE with', 20, 'of', 24, 'of GEN', '2', 'with Fitness', '12.87')
+('DONE with', 21, 'of', 24, 'of GEN', '2', 'with Fitness', '11.29')
+('DONE with', 22, 'of', 24, 'of GEN', '2', 'with Fitness', '15.25')
+('DONE with', 23, 'of', 24, 'of GEN', '2', 'with Fitness', '33.96')
+('DONE with', 24, 'of', 24, 'of GEN', '2', 'with Fitness', '6.96')
+('Generation', 2, 'out of', 15, 'COMPLETE')
+('Best fitness:', 5.168520440899459)
+('Best individual', [0.9960639622599059, 12.55409383483079, 2.0448294681280075, 33.07973918137748, -58.74323913768042, -74.34580912814, 0.00018176281971213042, 2.6637929599760852, 0.04192323762736872, 0.07404613250784663, 0.007335333712185513, -39.3114218996433, 8.63024873590661e-07, 0.05732280476355534])
+diam in ['apical'] at 30.90% of range. Val: 0.99606396226 Low: 0.1 High: 3.0
+Ra in ['all'] at 50.36% of range. Val: 12.5540938348 Low: 5.0 High: 20.0
+cm in ['all'] at 49.87% of range. Val: 2.04482946813 Low: 0.1 High: 4.0
+ena in ['all'] at 57.70% of range. Val: 33.0797391814 Low: 10.0 High: 50.0
+ek in ['all'] at 58.94% of range. Val: -58.7432391377 Low: -100.0 High: -30.0
+e_pas in ['all'] at 51.31% of range. Val: -74.3458091281 Low: -100.0 High: -50.0
+g_pas in ['all'] at 90.88% of range. Val: 0.000181762819712 Low: 0 High: 0.0002
+sh_Na in ['all'] at 26.64% of range. Val: 2.66379295998 Low: 0 High: 10
+gbar_Na in ['all'] at 83.85% of range. Val: 0.0419232376274 Low: 0 High: 0.05
+gbar_Kd in ['all'] at 74.05% of range. Val: 0.0740461325078 Low: 0 High: 0.1
+gbar_KA in ['somatic'] at 73.35% of range. Val: 0.00733533371219 Low: 0 High: 0.01
+eh in ['somatic'] at 30.54% of range. Val: -39.3114218996 Low: -50.0 High: -15.0
+gbar_Ih in ['somatic'] at 86.30% of range. Val: 8.63024873591e-07 Low: 0 High: 1e-06
+gbar_KM in ['somatic'] at 44.09% of range. Val: 0.0573228047636 Low: 0 High: 0.13
+('GEN', 3, 'Parents', 4, 'Elite', 12, 'DIV', 6, 'RND', 6, 'TOT NEW', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('STARTED GEN', '3', 'size', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 1, 'of', 24, 'of GEN', '3', 'with Fitness', '11.00')
+('DONE with', 2, 'of', 24, 'of GEN', '3', 'with Fitness', '28.56')
+('DONE with', 3, 'of', 24, 'of GEN', '3', 'with Fitness', '16.89')
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 4, 'of', 24, 'of GEN', '3', 'with Fitness', '12.16')
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 5, 'of', 24, 'of GEN', '3', 'with Fitness', '13.59')
+('DONE with', 6, 'of', 24, 'of GEN', '3', 'with Fitness', '11.66')
+('DONE with', 7, 'of', 24, 'of GEN', '3', 'with Fitness', '29.05')
+('DONE with', 8, 'of', 24, 'of GEN', '3', 'with Fitness', '11.85')
+('DONE with', 9, 'of', 24, 'of GEN', '3', 'with Fitness', '15.40')
+('DONE with', 10, 'of', 24, 'of GEN', '3', 'with Fitness', '10.76')
+('DONE with', 11, 'of', 24, 'of GEN', '3', 'with Fitness', '9.36')
+('DONE with', 12, 'of', 24, 'of GEN', '3', 'with Fitness', '11.33')
+('DONE with', 13, 'of', 24, 'of GEN', '3', 'with Fitness', '7.30')
+('DONE with', 14, 'of', 24, 'of GEN', '3', 'with Fitness', '7.18')
+('DONE with', 15, 'of', 24, 'of GEN', '3', 'with Fitness', '7.67')
+('DONE with', 16, 'of', 24, 'of GEN', '3', 'with Fitness', '6.92')
+('DONE with', 17, 'of', 24, 'of GEN', '3', 'with Fitness', '6.23')
+('DONE with', 18, 'of', 24, 'of GEN', '3', 'with Fitness', '7.18')
+('DONE with', 19, 'of', 24, 'of GEN', '3', 'with Fitness', '9.94')
+('DONE with', 20, 'of', 24, 'of GEN', '3', 'with Fitness', '12.34')
+('DONE with', 21, 'of', 24, 'of GEN', '3', 'with Fitness', '11.78')
+('DONE with', 22, 'of', 24, 'of GEN', '3', 'with Fitness', '7.42')
+('DONE with', 23, 'of', 24, 'of GEN', '3', 'with Fitness', '9.77')
+('DONE with', 24, 'of', 24, 'of GEN', '3', 'with Fitness', '17.42')
+('Generation', 3, 'out of', 15, 'COMPLETE')
+('Best fitness:', 5.168520440899459)
+('Best individual', [0.9960639622599059, 12.55409383483079, 2.0448294681280075, 33.07973918137748, -58.74323913768042, -74.34580912814, 0.00018176281971213042, 2.6637929599760852, 0.04192323762736872, 0.07404613250784663, 0.007335333712185513, -39.3114218996433, 8.63024873590661e-07, 0.05732280476355534])
+diam in ['apical'] at 30.90% of range. Val: 0.99606396226 Low: 0.1 High: 3.0
+Ra in ['all'] at 50.36% of range. Val: 12.5540938348 Low: 5.0 High: 20.0
+cm in ['all'] at 49.87% of range. Val: 2.04482946813 Low: 0.1 High: 4.0
+ena in ['all'] at 57.70% of range. Val: 33.0797391814 Low: 10.0 High: 50.0
+ek in ['all'] at 58.94% of range. Val: -58.7432391377 Low: -100.0 High: -30.0
+e_pas in ['all'] at 51.31% of range. Val: -74.3458091281 Low: -100.0 High: -50.0
+g_pas in ['all'] at 90.88% of range. Val: 0.000181762819712 Low: 0 High: 0.0002
+sh_Na in ['all'] at 26.64% of range. Val: 2.66379295998 Low: 0 High: 10
+gbar_Na in ['all'] at 83.85% of range. Val: 0.0419232376274 Low: 0 High: 0.05
+gbar_Kd in ['all'] at 74.05% of range. Val: 0.0740461325078 Low: 0 High: 0.1
+gbar_KA in ['somatic'] at 73.35% of range. Val: 0.00733533371219 Low: 0 High: 0.01
+eh in ['somatic'] at 30.54% of range. Val: -39.3114218996 Low: -50.0 High: -15.0
+gbar_Ih in ['somatic'] at 86.30% of range. Val: 8.63024873591e-07 Low: 0 High: 1e-06
+gbar_KM in ['somatic'] at 44.09% of range. Val: 0.0573228047636 Low: 0 High: 0.13
+('GEN', 4, 'Parents', 4, 'Elite', 12, 'DIV', 6, 'RND', 6, 'TOT NEW', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('STARTED GEN', '4', 'size', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 1, 'of', 24, 'of GEN', '4', 'with Fitness', '14.08')
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 2, 'of', 24, 'of GEN', '4', 'with Fitness', '16.24')
+('DONE with', 3, 'of', 24, 'of GEN', '4', 'with Fitness', '25.76')
+('DONE with', 4, 'of', 24, 'of GEN', '4', 'with Fitness', '17.06')
+('DONE with', 5, 'of', 24, 'of GEN', '4', 'with Fitness', '16.78')
+('DONE with', 6, 'of', 24, 'of GEN', '4', 'with Fitness', '114.01')
+('DONE with', 7, 'of', 24, 'of GEN', '4', 'with Fitness', '10.56')
+('DONE with', 8, 'of', 24, 'of GEN', '4', 'with Fitness', '7.48')
+('DONE with', 9, 'of', 24, 'of GEN', '4', 'with Fitness', '11.67')
+('DONE with', 10, 'of', 24, 'of GEN', '4', 'with Fitness', '9.29')
+('DONE with', 11, 'of', 24, 'of GEN', '4', 'with Fitness', '10.11')
+('DONE with', 12, 'of', 24, 'of GEN', '4', 'with Fitness', '18.75')
+('DONE with', 13, 'of', 24, 'of GEN', '4', 'with Fitness', '7.38')
+('DONE with', 14, 'of', 24, 'of GEN', '4', 'with Fitness', '6.92')
+('DONE with', 15, 'of', 24, 'of GEN', '4', 'with Fitness', '8.64')
+('DONE with', 16, 'of', 24, 'of GEN', '4', 'with Fitness', '9.86')
+('DONE with', 17, 'of', 24, 'of GEN', '4', 'with Fitness', '10.26')
+('DONE with', 18, 'of', 24, 'of GEN', '4', 'with Fitness', '6.28')
+('DONE with', 19, 'of', 24, 'of GEN', '4', 'with Fitness', '6.38')
+('DONE with', 20, 'of', 24, 'of GEN', '4', 'with Fitness', '10.88')
+('DONE with', 21, 'of', 24, 'of GEN', '4', 'with Fitness', '4.97')
+('DONE with', 22, 'of', 24, 'of GEN', '4', 'with Fitness', '6.50')
+('DONE with', 23, 'of', 24, 'of GEN', '4', 'with Fitness', '8.63')
+('DONE with', 24, 'of', 24, 'of GEN', '4', 'with Fitness', '9.95')
+('Generation', 4, 'out of', 15, 'COMPLETE')
+('Best fitness:', 4.965753005756042)
+('Best individual', [0.9960639622599059, 12.55409383483079, 2.0448294681280075, 33.07973918137748, -55.90903617685623, -74.34580912814, 0.00015361560033859574, 2.6637929599760852, 0.027688183517322513, 0.07404613250784663, 0.007335333712185513, -39.3114218996433, 9.098186449756681e-07, 0.06226705743640313])
+diam in ['apical'] at 30.90% of range. Val: 0.99606396226 Low: 0.1 High: 3.0
+Ra in ['all'] at 50.36% of range. Val: 12.5540938348 Low: 5.0 High: 20.0
+cm in ['all'] at 49.87% of range. Val: 2.04482946813 Low: 0.1 High: 4.0
+ena in ['all'] at 57.70% of range. Val: 33.0797391814 Low: 10.0 High: 50.0
+ek in ['all'] at 62.99% of range. Val: -55.9090361769 Low: -100.0 High: -30.0
+e_pas in ['all'] at 51.31% of range. Val: -74.3458091281 Low: -100.0 High: -50.0
+g_pas in ['all'] at 76.81% of range. Val: 0.000153615600339 Low: 0 High: 0.0002
+sh_Na in ['all'] at 26.64% of range. Val: 2.66379295998 Low: 0 High: 10
+gbar_Na in ['all'] at 55.38% of range. Val: 0.0276881835173 Low: 0 High: 0.05
+gbar_Kd in ['all'] at 74.05% of range. Val: 0.0740461325078 Low: 0 High: 0.1
+gbar_KA in ['somatic'] at 73.35% of range. Val: 0.00733533371219 Low: 0 High: 0.01
+eh in ['somatic'] at 30.54% of range. Val: -39.3114218996 Low: -50.0 High: -15.0
+gbar_Ih in ['somatic'] at 90.98% of range. Val: 9.09818644976e-07 Low: 0 High: 1e-06
+gbar_KM in ['somatic'] at 47.90% of range. Val: 0.0622670574364 Low: 0 High: 0.13
+('GEN', 5, 'Parents', 4, 'Elite', 12, 'DIV', 6, 'RND', 6, 'TOT NEW', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('STARTED GEN', '5', 'size', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 1, 'of', 24, 'of GEN', '5', 'with Fitness', '11.20')
+('DONE with', 2, 'of', 24, 'of GEN', '5', 'with Fitness', '11.24')
+('DONE with', 3, 'of', 24, 'of GEN', '5', 'with Fitness', '10.69')
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 4, 'of', 24, 'of GEN', '5', 'with Fitness', '8.51')
+('DONE with', 5, 'of', 24, 'of GEN', '5', 'with Fitness', '17.78')
+('DONE with', 6, 'of', 24, 'of GEN', '5', 'with Fitness', '28.46')
+('DONE with', 7, 'of', 24, 'of GEN', '5', 'with Fitness', '7.47')
+('DONE with', 8, 'of', 24, 'of GEN', '5', 'with Fitness', '10.94')
+('DONE with', 9, 'of', 24, 'of GEN', '5', 'with Fitness', '16.76')
+('DONE with', 10, 'of', 24, 'of GEN', '5', 'with Fitness', '8.81')
+('DONE with', 11, 'of', 24, 'of GEN', '5', 'with Fitness', '33.03')
+('DONE with', 12, 'of', 24, 'of GEN', '5', 'with Fitness', '10.08')
+('DONE with', 13, 'of', 24, 'of GEN', '5', 'with Fitness', '6.17')
+('DONE with', 14, 'of', 24, 'of GEN', '5', 'with Fitness', '6.24')
+('DONE with', 15, 'of', 24, 'of GEN', '5', 'with Fitness', '30.86')
+('DONE with', 16, 'of', 24, 'of GEN', '5', 'with Fitness', '6.96')
+('DONE with', 17, 'of', 24, 'of GEN', '5', 'with Fitness', '6.11')
+('DONE with', 18, 'of', 24, 'of GEN', '5', 'with Fitness', '6.24')
+('DONE with', 19, 'of', 24, 'of GEN', '5', 'with Fitness', '18.11')
+('DONE with', 20, 'of', 24, 'of GEN', '5', 'with Fitness', '12.95')
+('DONE with', 21, 'of', 24, 'of GEN', '5', 'with Fitness', '5.17')
+('DONE with', 22, 'of', 24, 'of GEN', '5', 'with Fitness', '5.79')
+('DONE with', 23, 'of', 24, 'of GEN', '5', 'with Fitness', '5.60')
+('DONE with', 24, 'of', 24, 'of GEN', '5', 'with Fitness', '10.60')
+('Generation', 5, 'out of', 15, 'COMPLETE')
+('Best fitness:', 4.965753005756042)
+('Best individual', [0.9960639622599059, 12.55409383483079, 2.0448294681280075, 33.07973918137748, -55.90903617685623, -74.34580912814, 0.00015361560033859574, 2.6637929599760852, 0.027688183517322513, 0.07404613250784663, 0.007335333712185513, -39.3114218996433, 9.098186449756681e-07, 0.06226705743640313])
+diam in ['apical'] at 30.90% of range. Val: 0.99606396226 Low: 0.1 High: 3.0
+Ra in ['all'] at 50.36% of range. Val: 12.5540938348 Low: 5.0 High: 20.0
+cm in ['all'] at 49.87% of range. Val: 2.04482946813 Low: 0.1 High: 4.0
+ena in ['all'] at 57.70% of range. Val: 33.0797391814 Low: 10.0 High: 50.0
+ek in ['all'] at 62.99% of range. Val: -55.9090361769 Low: -100.0 High: -30.0
+e_pas in ['all'] at 51.31% of range. Val: -74.3458091281 Low: -100.0 High: -50.0
+g_pas in ['all'] at 76.81% of range. Val: 0.000153615600339 Low: 0 High: 0.0002
+sh_Na in ['all'] at 26.64% of range. Val: 2.66379295998 Low: 0 High: 10
+gbar_Na in ['all'] at 55.38% of range. Val: 0.0276881835173 Low: 0 High: 0.05
+gbar_Kd in ['all'] at 74.05% of range. Val: 0.0740461325078 Low: 0 High: 0.1
+gbar_KA in ['somatic'] at 73.35% of range. Val: 0.00733533371219 Low: 0 High: 0.01
+eh in ['somatic'] at 30.54% of range. Val: -39.3114218996 Low: -50.0 High: -15.0
+gbar_Ih in ['somatic'] at 90.98% of range. Val: 9.09818644976e-07 Low: 0 High: 1e-06
+gbar_KM in ['somatic'] at 47.90% of range. Val: 0.0622670574364 Low: 0 High: 0.13
+('GEN', 6, 'Parents', 4, 'Elite', 12, 'DIV', 6, 'RND', 6, 'TOT NEW', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('STARTED GEN', '6', 'size', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 1, 'of', 24, 'of GEN', '6', 'with Fitness', '19.01')
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 2, 'of', 24, 'of GEN', '6', 'with Fitness', '11.35')
+('DONE with', 3, 'of', 24, 'of GEN', '6', 'with Fitness', '9.88')
+('DONE with', 4, 'of', 24, 'of GEN', '6', 'with Fitness', '21.32')
+('DONE with', 5, 'of', 24, 'of GEN', '6', 'with Fitness', '18.65')
+('DONE with', 6, 'of', 24, 'of GEN', '6', 'with Fitness', '23.28')
+('DONE with', 7, 'of', 24, 'of GEN', '6', 'with Fitness', '10.16')
+('DONE with', 8, 'of', 24, 'of GEN', '6', 'with Fitness', '7.39')
+('DONE with', 9, 'of', 24, 'of GEN', '6', 'with Fitness', '6.04')
+('DONE with', 10, 'of', 24, 'of GEN', '6', 'with Fitness', '8.21')
+('DONE with', 11, 'of', 24, 'of GEN', '6', 'with Fitness', '15.45')
+('DONE with', 12, 'of', 24, 'of GEN', '6', 'with Fitness', '5.30')
+('DONE with', 13, 'of', 24, 'of GEN', '6', 'with Fitness', '4.97')
+('DONE with', 14, 'of', 24, 'of GEN', '6', 'with Fitness', '6.17')
+('DONE with', 15, 'of', 24, 'of GEN', '6', 'with Fitness', '10.98')
+('DONE with', 16, 'of', 24, 'of GEN', '6', 'with Fitness', '18.58')
+('DONE with', 17, 'of', 24, 'of GEN', '6', 'with Fitness', '11.51')
+('DONE with', 18, 'of', 24, 'of GEN', '6', 'with Fitness', '12.96')
+('DONE with', 19, 'of', 24, 'of GEN', '6', 'with Fitness', '10.29')
+('DONE with', 20, 'of', 24, 'of GEN', '6', 'with Fitness', '5.55')
+('DONE with', 21, 'of', 24, 'of GEN', '6', 'with Fitness', '9.74')
+('DONE with', 22, 'of', 24, 'of GEN', '6', 'with Fitness', '5.11')
+('DONE with', 23, 'of', 24, 'of GEN', '6', 'with Fitness', '5.17')
+('DONE with', 24, 'of', 24, 'of GEN', '6', 'with Fitness', '10.51')
+('Generation', 6, 'out of', 15, 'COMPLETE')
+('Best fitness:', 4.965753005756042)
+('Best individual', [0.9960639622599059, 12.55409383483079, 2.0448294681280075, 33.07973918137748, -55.90903617685623, -74.34580912814, 0.00015361560033859574, 2.6637929599760852, 0.027688183517322513, 0.07404613250784663, 0.007335333712185513, -39.3114218996433, 9.098186449756681e-07, 0.06226705743640313])
+diam in ['apical'] at 30.90% of range. Val: 0.99606396226 Low: 0.1 High: 3.0
+Ra in ['all'] at 50.36% of range. Val: 12.5540938348 Low: 5.0 High: 20.0
+cm in ['all'] at 49.87% of range. Val: 2.04482946813 Low: 0.1 High: 4.0
+ena in ['all'] at 57.70% of range. Val: 33.0797391814 Low: 10.0 High: 50.0
+ek in ['all'] at 62.99% of range. Val: -55.9090361769 Low: -100.0 High: -30.0
+e_pas in ['all'] at 51.31% of range. Val: -74.3458091281 Low: -100.0 High: -50.0
+g_pas in ['all'] at 76.81% of range. Val: 0.000153615600339 Low: 0 High: 0.0002
+sh_Na in ['all'] at 26.64% of range. Val: 2.66379295998 Low: 0 High: 10
+gbar_Na in ['all'] at 55.38% of range. Val: 0.0276881835173 Low: 0 High: 0.05
+gbar_Kd in ['all'] at 74.05% of range. Val: 0.0740461325078 Low: 0 High: 0.1
+gbar_KA in ['somatic'] at 73.35% of range. Val: 0.00733533371219 Low: 0 High: 0.01
+eh in ['somatic'] at 30.54% of range. Val: -39.3114218996 Low: -50.0 High: -15.0
+gbar_Ih in ['somatic'] at 90.98% of range. Val: 9.09818644976e-07 Low: 0 High: 1e-06
+gbar_KM in ['somatic'] at 47.90% of range. Val: 0.0622670574364 Low: 0 High: 0.13
+('GEN', 7, 'Parents', 4, 'Elite', 12, 'DIV', 6, 'RND', 6, 'TOT NEW', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('STARTED GEN', '7', 'size', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 1, 'of', 24, 'of GEN', '7', 'with Fitness', '7.23')
+('DONE with', 2, 'of', 24, 'of GEN', '7', 'with Fitness', '18.34')
+('DONE with', 3, 'of', 24, 'of GEN', '7', 'with Fitness', '10.28')
+('DONE with', 4, 'of', 24, 'of GEN', '7', 'with Fitness', '12.77')
+('DONE with', 5, 'of', 24, 'of GEN', '7', 'with Fitness', '7.25')
+('DONE with', 6, 'of', 24, 'of GEN', '7', 'with Fitness', '13.32')
+('DONE with', 7, 'of', 24, 'of GEN', '7', 'with Fitness', '10.34')
+('DONE with', 8, 'of', 24, 'of GEN', '7', 'with Fitness', '11.31')
+('DONE with', 9, 'of', 24, 'of GEN', '7', 'with Fitness', '9.00')
+('DONE with', 10, 'of', 24, 'of GEN', '7', 'with Fitness', '7.46')
+('DONE with', 11, 'of', 24, 'of GEN', '7', 'with Fitness', '62.14')
+('DONE with', 12, 'of', 24, 'of GEN', '7', 'with Fitness', '9.89')
+('DONE with', 13, 'of', 24, 'of GEN', '7', 'with Fitness', '4.97')
+('DONE with', 14, 'of', 24, 'of GEN', '7', 'with Fitness', '4.97')
+('DONE with', 15, 'of', 24, 'of GEN', '7', 'with Fitness', '8.09')
+('DONE with', 16, 'of', 24, 'of GEN', '7', 'with Fitness', '9.55')
+('DONE with', 17, 'of', 24, 'of GEN', '7', 'with Fitness', '6.50')
+('DONE with', 18, 'of', 24, 'of GEN', '7', 'with Fitness', '5.16')
+('DONE with', 19, 'of', 24, 'of GEN', '7', 'with Fitness', '17.89')
+('DONE with', 20, 'of', 24, 'of GEN', '7', 'with Fitness', '5.41')
+('DONE with', 21, 'of', 24, 'of GEN', '7', 'with Fitness', '15.93')
+('DONE with', 22, 'of', 24, 'of GEN', '7', 'with Fitness', '5.02')
+('DONE with', 23, 'of', 24, 'of GEN', '7', 'with Fitness', '15.58')
+('DONE with', 24, 'of', 24, 'of GEN', '7', 'with Fitness', '4.92')
+('Generation', 7, 'out of', 15, 'COMPLETE')
+('Best fitness:', 4.917007867678412)
+('Best individual', [0.9960639622599059, 12.55409383483079, 2.0448294681280075, 33.07973918137748, -55.90903617685623, -74.34580912814, 0.00015361560033859574, 2.6637929599760852, 0.032669271015092274, 0.0801950552271339, 0.00011161184674461991, -39.3114218996433, 9.098186449756681e-07, 0.06226705743640313])
+diam in ['apical'] at 30.90% of range. Val: 0.99606396226 Low: 0.1 High: 3.0
+Ra in ['all'] at 50.36% of range. Val: 12.5540938348 Low: 5.0 High: 20.0
+cm in ['all'] at 49.87% of range. Val: 2.04482946813 Low: 0.1 High: 4.0
+ena in ['all'] at 57.70% of range. Val: 33.0797391814 Low: 10.0 High: 50.0
+ek in ['all'] at 62.99% of range. Val: -55.9090361769 Low: -100.0 High: -30.0
+e_pas in ['all'] at 51.31% of range. Val: -74.3458091281 Low: -100.0 High: -50.0
+g_pas in ['all'] at 76.81% of range. Val: 0.000153615600339 Low: 0 High: 0.0002
+sh_Na in ['all'] at 26.64% of range. Val: 2.66379295998 Low: 0 High: 10
+gbar_Na in ['all'] at 65.34% of range. Val: 0.0326692710151 Low: 0 High: 0.05
+gbar_Kd in ['all'] at 80.20% of range. Val: 0.0801950552271 Low: 0 High: 0.1
+gbar_KA in ['somatic'] at 1.12% of range. Val: 0.000111611846745 Low: 0 High: 0.01
+eh in ['somatic'] at 30.54% of range. Val: -39.3114218996 Low: -50.0 High: -15.0
+gbar_Ih in ['somatic'] at 90.98% of range. Val: 9.09818644976e-07 Low: 0 High: 1e-06
+gbar_KM in ['somatic'] at 47.90% of range. Val: 0.0622670574364 Low: 0 High: 0.13
+('GEN', 8, 'Parents', 4, 'Elite', 12, 'DIV', 6, 'RND', 6, 'TOT NEW', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('STARTED GEN', '8', 'size', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 1, 'of', 24, 'of GEN', '8', 'with Fitness', '20.43')
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 2, 'of', 24, 'of GEN', '8', 'with Fitness', '15.62')
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+exp(705.777) out of range, returning exp(700)
+exp(701.842) out of range, returning exp(700)
+exp(705.777) out of range, returning exp(700)
+exp(701.842) out of range, returning exp(700)
+No more errno warnings during this execution
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 3, 'of', 24, 'of GEN', '8', 'with Fitness', '12.23')
+('DONE with', 4, 'of', 24, 'of GEN', '8', 'with Fitness', '12.37')
+('DONE with', 5, 'of', 24, 'of GEN', '8', 'with Fitness', '6.52')
+('DONE with', 6, 'of', 24, 'of GEN', '8', 'with Fitness', '13.24')
+('DONE with', 7, 'of', 24, 'of GEN', '8', 'with Fitness', '13.32')
+('DONE with', 8, 'of', 24, 'of GEN', '8', 'with Fitness', '7.60')
+('DONE with', 9, 'of', 24, 'of GEN', '8', 'with Fitness', '18.41')
+('DONE with', 10, 'of', 24, 'of GEN', '8', 'with Fitness', '21.95')
+('DONE with', 11, 'of', 24, 'of GEN', '8', 'with Fitness', '7.87')
+('DONE with', 12, 'of', 24, 'of GEN', '8', 'with Fitness', '12.26')
+('DONE with', 13, 'of', 24, 'of GEN', '8', 'with Fitness', '10.82')
+('DONE with', 14, 'of', 24, 'of GEN', '8', 'with Fitness', '4.97')
+('DONE with', 15, 'of', 24, 'of GEN', '8', 'with Fitness', '4.97')
+('DONE with', 16, 'of', 24, 'of GEN', '8', 'with Fitness', '10.99')
+('DONE with', 17, 'of', 24, 'of GEN', '8', 'with Fitness', '9.97')
+('DONE with', 18, 'of', 24, 'of GEN', '8', 'with Fitness', '7.96')
+('DONE with', 19, 'of', 24, 'of GEN', '8', 'with Fitness', '4.97')
+('DONE with', 20, 'of', 24, 'of GEN', '8', 'with Fitness', '4.97')
+('DONE with', 21, 'of', 24, 'of GEN', '8', 'with Fitness', '5.34')
+('DONE with', 22, 'of', 24, 'of GEN', '8', 'with Fitness', '10.16')
+('DONE with', 23, 'of', 24, 'of GEN', '8', 'with Fitness', '5.06')
+'18.41')
+('DONE with', 10, 'of'('DONE with', 24, 'of', 24, 'of GEN', '8', 'with Fitness', '12.45')
+('Generation', 8, 'out of', 15, 'COMPLETE')
+('Best fitness:', 4.917007867678412)
+('Best individual', [0.9960639622599059, 12.55409383483079, 2.0448294681280075, 33.07973918137748, -55.90903617685623, -74.34580912814, 0.00015361560033859574, 2.6637929599760852, 0.032669271015092274, 0.0801950552271339, 0.00011161184674461991, -39.3114218996433, 9.098186449756681e-07, 0.06226705743640313])
+diam in ['apical'] at 30.90% of range. Val: 0.99606396226 Low: 0.1 High: 3.0
+Ra in ['all'] at 50.36% of range. Val: 12.5540938348 Low: 5.0 High: 20.0
+cm in ['all'] at 49.87% of range. Val: 2.04482946813 Low: 0.1 High: 4.0
+ena in ['all'] at 57.70% of range. Val: 33.0797391814 Low: 10.0 High: 50.0
+ek in ['all'] at 62.99% of range. Val: -55.9090361769 Low: -100.0 High: -30.0
+e_pas in ['all'] at 51.31% of range. Val: -74.3458091281 Low: -100.0 High: -50.0
+g_pas in ['all'] at 76.81% of range. Val: 0.000153615600339 Low: 0 High: 0.0002
+sh_Na in ['all'] at 26.64% of range. Val: 2.66379295998 Low: 0 High: 10
+gbar_Na in ['all'] at 65.34% of range. Val: 0.0326692710151 Low: 0 High: 0.05
+gbar_Kd in ['all'] at 80.20% of range. Val: 0.0801950552271 Low: 0 High: 0.1
+gbar_KA in ['somatic'] at 1.12% of range. Val: 0.000111611846745 Low: 0 High: 0.01
+eh in ['somatic'] at 30.54% of range. Val: -39.3114218996 Low: -50.0 High: -15.0
+gbar_Ih in ['somatic'] at 90.98% of range. Val: 9.09818644976e-07 Low: 0 High: 1e-06
+gbar_KM in ['somatic'] at 47.90% of range. Val: 0.0622670574364 Low: 0 High: 0.13
+('GEN', 9, 'Parents', 4, 'Elite', 12, 'DIV', 6, 'RND', 6, 'TOT NEW', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('STARTED GEN', '9', 'size', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 1, 'of', 24, 'of GEN', '9', 'with Fitness', '10.91')
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 2, 'of', 24, 'of GEN', '9', 'with Fitness', '19.08')
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 3, 'of', 24, 'of GEN', '9', 'with Fitness', '15.22')
+('DONE with', 4, 'of', 24, 'of GEN', '9', 'with Fitness', '15.73')
+('DONE with', 5, 'of', 24, 'of GEN', '9', 'with Fitness', '11.55')
+('DONE with', 6, 'of', 24, 'of GEN', '9', 'with Fitness', '19.56')
+('DONE with', 7, 'of', 24, 'of GEN', '9', 'with Fitness', '6.17')
+('DONE with', 8, 'of', 24, 'of GEN', '9', 'with Fitness', '12.07')
+('DONE with', 9, 'of', 24, 'of GEN', '9', 'with Fitness', '12.47')
+('DONE with', 10, 'of', 24, 'of GEN', '9', 'with Fitness', '45.44')
+('DONE with', 11, 'of', 24, 'of GEN', '9', 'with Fitness', '7.37')
+('DONE with', 12, 'of', 24, 'of GEN', '9', 'with Fitness', '11.19')
+('DONE with', 13, 'of', 24, 'of GEN', '9', 'with Fitness', '10.79')
+('DONE with', 14, 'of', 24, 'of GEN', '9', 'with Fitness', '4.97')
+('DONE with', 15, 'of', 24, 'of GEN', '9', 'with Fitness', '5.01')
+('DONE with', 16, 'of', 24, 'of GEN', '9', 'with Fitness', '9.36')
+('DONE with', 17, 'of', 24, 'of GEN', '9', 'with Fitness', '9.98')
+('DONE with', 18, 'of', 24, 'of GEN', '9', 'with Fitness', '4.97')
+('DONE with', 19, 'of', 24, 'of GEN', '9', 'with Fitness', '6.05')
+('DONE with', 20, 'of', 24, 'of GEN', '9', 'with Fitness', '5.51')
+('DONE with', 21, 'of', 24, 'of GEN', '9', 'with Fitness', '11.99')
+('DONE with', 22, 'of', 24, 'of GEN', '9', 'with Fitness', '5.79')
+('DONE with', 23, 'of', 24, 'of GEN', '9', 'with Fitness', '4.97')
+('DONE with', 24, 'of', 24, 'of GEN', '9', 'with Fitness', '10.85')
+('Generation', 9, 'out of', 15, 'COMPLETE')
+('Best fitness:', 4.917007867678412)
+('Best individual', [0.9960639622599059, 12.55409383483079, 2.0448294681280075, 33.07973918137748, -55.90903617685623, -74.34580912814, 0.00015361560033859574, 2.6637929599760852, 0.032669271015092274, 0.0801950552271339, 0.00011161184674461991, -39.3114218996433, 9.098186449756681e-07, 0.06226705743640313])
+diam in ['apical'] at 30.90% of range. Val: 0.99606396226 Low: 0.1 High: 3.0
+Ra in ['all'] at 50.36% of range. Val: 12.5540938348 Low: 5.0 High: 20.0
+cm in ['all'] at 49.87% of range. Val: 2.04482946813 Low: 0.1 High: 4.0
+ena in ['all'] at 57.70% of range. Val: 33.0797391814 Low: 10.0 High: 50.0
+ek in ['all'] at 62.99% of range. Val: -55.9090361769 Low: -100.0 High: -30.0
+e_pas in ['all'] at 51.31% of range. Val: -74.3458091281 Low: -100.0 High: -50.0
+g_pas in ['all'] at 76.81% of range. Val: 0.000153615600339 Low: 0 High: 0.0002
+sh_Na in ['all'] at 26.64% of range. Val: 2.66379295998 Low: 0 High: 10
+gbar_Na in ['all'] at 65.34% of range. Val: 0.0326692710151 Low: 0 High: 0.05
+gbar_Kd in ['all'] at 80.20% of range. Val: 0.0801950552271 Low: 0 High: 0.1
+gbar_KA in ['somatic'] at 1.12% of range. Val: 0.000111611846745 Low: 0 High: 0.01
+eh in ['somatic'] at 30.54% of range. Val: -39.3114218996 Low: -50.0 High: -15.0
+gbar_Ih in ['somatic'] at 90.98% of range. Val: 9.09818644976e-07 Low: 0 High: 1e-06
+gbar_KM in ['somatic'] at 47.90% of range. Val: 0.0622670574364 Low: 0 High: 0.13
+('GEN', 10, 'Parents', 4, 'Elite', 12, 'DIV', 6, 'RND', 6, 'TOT NEW', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('STARTED GEN', '10', 'size', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 1, 'of', 24, 'of GEN', '10', 'with Fitness', '31.39')
+('DONE with', 2, 'of', 24, 'of GEN', '10', 'with Fitness', '79.46')
+('DONE with', 3, 'of', 24, 'of GEN', '10', 'with Fitness', '96.69')
+('DONE with', 4, 'of', 24, 'of GEN', '10', 'with Fitness', '13.20')
+('DONE with', 5, 'of', 24, 'of GEN', '10', 'with Fitness', '33.99')
+('DONE with', 6, 'of', 24, 'of GEN', '10', 'with Fitness', '17.09')
+('DONE with', 7, 'of', 24, 'of GEN', '10', 'with Fitness', '12.74')
+('DONE with', 8, 'of', 24, 'of GEN', '10', 'with Fitness', '11.22')
+('DONE with', 9, 'of', 24, 'of GEN', '10', 'with Fitness', '15.53')
+('DONE with', 10, 'of', 24, 'of GEN', '10', 'with Fitness', '17.53')
+('DONE with', 11, 'of', 24, 'of GEN', '10', 'with Fitness', '12.31')
+('DONE with', 12, 'of', 24, 'of GEN', '10', 'with Fitness', '14.82')
+('DONE with', 13, 'of', 24, 'of GEN', '10', 'with Fitness', '11.07')
+('DONE with', 14, 'of', 24, 'of GEN', '10', 'with Fitness', '4.97')
+('DONE with', 15, 'of', 24, 'of GEN', '10', 'with Fitness', '12.07')
+('DONE with', 16, 'of', 24, 'of GEN', '10', 'with Fitness', '9.72')
+('DONE with', 17, 'of', 24, 'of GEN', '10', 'with Fitness', '11.82')
+('DONE with', 18, 'of', 24, 'of GEN', '10', 'with Fitness', '9.79')
+('DONE with', 19, 'of', 24, 'of GEN', '10', 'with Fitness', '5.03')
+('DONE with', 20, 'of', 24, 'of GEN', '10', 'with Fitness', '9.78')
+('DONE with', 21, 'of', 24, 'of GEN', '10', 'with Fitness', '5.33')
+('DONE with', 22, 'of', 24, 'of GEN', '10', 'with Fitness', '4.97')
+('DONE with', 23, 'of', 24, 'of GEN', '10', 'with Fitness', '4.92')
+('DONE with', 24, 'of', 24, 'of GEN', '10', 'with Fitness', '9.96')
+('Generation', 10, 'out of', 15, 'COMPLETE')
+('Best fitness:', 4.916437159548358)
+('Best individual', [0.9960639622599059, 12.55409383483079, 2.0448294681280075, 33.07973918137748, -55.90903617685623, -74.34580912814, 0.00015361560033859574, 2.6637929599760852, 0.027688183517322513, 0.07404613250784663, 0.007335333712185513, -39.3114218996433, 9.425372220205269e-07, 0.06226705743640313])
+diam in ['apical'] at 30.90% of range. Val: 0.99606396226 Low: 0.1 High: 3.0
+Ra in ['all'] at 50.36% of range. Val: 12.5540938348 Low: 5.0 High: 20.0
+cm in ['all'] at 49.87% of range. Val: 2.04482946813 Low: 0.1 High: 4.0
+ena in ['all'] at 57.70% of range. Val: 33.0797391814 Low: 10.0 High: 50.0
+ek in ['all'] at 62.99% of range. Val: -55.9090361769 Low: -100.0 High: -30.0
+e_pas in ['all'] at 51.31% of range. Val: -74.3458091281 Low: -100.0 High: -50.0
+g_pas in ['all'] at 76.81% of range. Val: 0.000153615600339 Low: 0 High: 0.0002
+sh_Na in ['all'] at 26.64% of range. Val: 2.66379295998 Low: 0 High: 10
+gbar_Na in ['all'] at 55.38% of range. Val: 0.0276881835173 Low: 0 High: 0.05
+gbar_Kd in ['all'] at 74.05% of range. Val: 0.0740461325078 Low: 0 High: 0.1
+gbar_KA in ['somatic'] at 73.35% of range. Val: 0.00733533371219 Low: 0 High: 0.01
+eh in ['somatic'] at 30.54% of range. Val: -39.3114218996 Low: -50.0 High: -15.0
+gbar_Ih in ['somatic'] at 94.25% of range. Val: 9.42537222021e-07 Low: 0 High: 1e-06
+gbar_KM in ['somatic'] at 47.90% of range. Val: 0.0622670574364 Low: 0 High: 0.13
+('GEN', 11, 'Parents', 4, 'Elite', 12, 'DIV', 6, 'RND', 6, 'TOT NEW', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('STARTED GEN', '11', 'size', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 1, 'of', 24, 'of GEN', '11', 'with Fitness', '16.65')
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 2, 'of', 24, 'of GEN', '11', 'with Fitness', '8.09')
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 3, 'of', 24, 'of GEN', '11', 'with Fitness', '18.39')
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 4, 'of', 24, 'of GEN', '11', 'with Fitness', '8.39')
+('DONE with', 5, 'of', 24, 'of GEN', '11', 'with Fitness', '10.11')
+('DONE with', 6, 'of', 24, 'of GEN', '11', 'with Fitness', '18.40')
+('DONE with', 7, 'of', 24, 'of GEN', '11', 'with Fitness', '14.98')
+('DONE with', 8, 'of', 24, 'of GEN', '11', 'with Fitness', '10.60')
+('DONE with', 9, 'of', 24, 'of GEN', '11', 'with Fitness', '11.16')
+('DONE with', 10, 'of', 24, 'of GEN', '11', 'with Fitness', '13.96')
+('DONE with', 11, 'of', 24, 'of GEN', '11', 'with Fitness', '25.04')
+('DONE with', 12, 'of', 24, 'of GEN', '11', 'with Fitness', '18.29')
+('DONE with', 13, 'of', 24, 'of GEN', '11', 'with Fitness', '4.97')
+('DONE with', 14, 'of', 24, 'of GEN', '11', 'with Fitness', '5.00')
+('DONE with', 15, 'of', 24, 'of GEN', '11', 'with Fitness', '4.97')
+('DONE with', 16, 'of', 24, 'of GEN', '11', 'with Fitness', '4.97')
+('DONE with', 17, 'of', 24, 'of GEN', '11', 'with Fitness', '5.12')
+('DONE with', 18, 'of', 24, 'of GEN', '11', 'with Fitness', '4.97')
+('DONE with', 19, 'of', 24, 'of GEN', '11', 'with Fitness', '10.03')
+('DONE with', 20, 'of', 24, 'of GEN', '11', 'with Fitness', '16.59')
+('DONE with', 21, 'of', 24, 'of GEN', '11', 'with Fitness', '4.99')
+('DONE with', 22, 'of', 24, 'of GEN', '11', 'with Fitness', '4.95')
+('DONE with', 23, 'of', 24, 'of GEN', '11', 'with Fitness', '5.01')
+('DONE with', 24, 'of', 24, 'of GEN', '11', 'with Fitness', '5.14')
+('Generation', 11, 'out of', 15, 'COMPLETE')
+('Best fitness:', 4.916437159548358)
+('Best individual', [0.9960639622599059, 12.55409383483079, 2.0448294681280075, 33.07973918137748, -55.90903617685623, -74.34580912814, 0.00015361560033859574, 2.6637929599760852, 0.027688183517322513, 0.07404613250784663, 0.007335333712185513, -39.3114218996433, 9.425372220205269e-07, 0.06226705743640313])
+diam in ['apical'] at 30.90% of range. Val: 0.99606396226 Low: 0.1 High: 3.0
+Ra in ['all'] at 50.36% of range. Val: 12.5540938348 Low: 5.0 High: 20.0
+cm in ['all'] at 49.87% of range. Val: 2.04482946813 Low: 0.1 High: 4.0
+ena in ['all'] at 57.70% of range. Val: 33.0797391814 Low: 10.0 High: 50.0
+ek in ['all'] at 62.99% of range. Val: -55.9090361769 Low: -100.0 High: -30.0
+e_pas in ['all'] at 51.31% of range. Val: -74.3458091281 Low: -100.0 High: -50.0
+g_pas in ['all'] at 76.81% of range. Val: 0.000153615600339 Low: 0 High: 0.0002
+sh_Na in ['all'] at 26.64% of range. Val: 2.66379295998 Low: 0 High: 10
+gbar_Na in ['all'] at 55.38% of range. Val: 0.0276881835173 Low: 0 High: 0.05
+gbar_Kd in ['all'] at 74.05% of range. Val: 0.0740461325078 Low: 0 High: 0.1
+gbar_KA in ['somatic'] at 73.35% of range. Val: 0.00733533371219 Low: 0 High: 0.01
+eh in ['somatic'] at 30.54% of range. Val: -39.3114218996 Low: -50.0 High: -15.0
+gbar_Ih in ['somatic'] at 94.25% of range. Val: 9.42537222021e-07 Low: 0 High: 1e-06
+gbar_KM in ['somatic'] at 47.90% of range. Val: 0.0622670574364 Low: 0 High: 0.13
+('GEN', 12, 'Parents', 4, 'Elite', 12, 'DIV', 6, 'RND', 6, 'TOT NEW', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('STARTED GEN', '12', 'size', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 1, 'of', 24, 'of GEN', '12', 'with Fitness', '17.81')
+('DONE with', 2, 'of', 24, 'of GEN', '12', 'with Fitness', '13.70')
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 3, 'of', 24, 'of GEN', '12', 'with Fitness', '17.57')
+('DONE with', 4, 'of', 24, 'of GEN', '12', 'with Fitness', '15.59')
+('DONE with', 5, 'of', 24, 'of GEN', '12', 'with Fitness', '21.29')
+('DONE with', 6, 'of', 24, 'of GEN', '12', 'with Fitness', '11.30')
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 7, 'of', 24, 'of GEN', '12', 'with Fitness', '9.70')
+('DONE with', 8, 'of', 24, 'of GEN', '12', 'with Fitness', '10.28')
+('DONE with', 9, 'of', 24, 'of GEN', '12', 'with Fitness', '14.61')
+('DONE with', 10, 'of', 24, 'of GEN', '12', 'with Fitness', '27.66')
+('DONE with', 11, 'of', 24, 'of GEN', '12', 'with Fitness', '15.40')
+('DONE with', 12, 'of', 24, 'of GEN', '12', 'with Fitness', '16.59')
+('DONE with', 13, 'of', 24, 'of GEN', '12', 'with Fitness', '12.71')
+('DONE with', 14, 'of', 24, 'of GEN', '12', 'with Fitness', '4.92')
+('DONE with', 15, 'of', 24, 'of GEN', '12', 'with Fitness', '5.02')
+('DONE with', 16, 'of', 24, 'of GEN', '12', 'with Fitness', '5.60')
+('DONE with', 17, 'of', 24, 'of GEN', '12', 'with Fitness', '11.52')
+('DONE with', 18, 'of', 24, 'of GEN', '12', 'with Fitness', '4.95')
+('DONE with', 19, 'of', 24, 'of GEN', '12', 'with Fitness', '9.51')
+('DONE with', 20, 'of', 24, 'of GEN', '12', 'with Fitness', '12.02')
+('DONE with', 21, 'of', 24, 'of GEN', '12', 'with Fitness', '8.73')
+('DONE with', 22, 'of', 24, 'of GEN', '12', 'with Fitness', '4.83')
+('DONE with', 23, 'of', 24, 'of GEN', '12', 'with Fitness', '5.09')
+('DONE with', 24, 'of', 24, 'of GEN', '12', 'with Fitness', '4.94')
+('Generation', 12, 'out of', 15, 'COMPLETE')
+('Best fitness:', 4.832704370014203)
+('Best individual', [0.9960639622599059, 12.55409383483079, 2.0448294681280075, 33.66240003652404, -55.90903617685623, -74.34580912814, 0.00015361560033859574, 2.6637929599760852, 0.027688183517322513, 0.07404613250784663, 0.007335333712185513, -39.3114218996433, 9.098186449756681e-07, 0.06226705743640313])
+diam in ['apical'] at 30.90% of range. Val: 0.99606396226 Low: 0.1 High: 3.0
+Ra in ['all'] at 50.36% of range. Val: 12.5540938348 Low: 5.0 High: 20.0
+cm in ['all'] at 49.87% of range. Val: 2.04482946813 Low: 0.1 High: 4.0
+ena in ['all'] at 59.16% of range. Val: 33.6624000365 Low: 10.0 High: 50.0
+ek in ['all'] at 62.99% of range. Val: -55.9090361769 Low: -100.0 High: -30.0
+e_pas in ['all'] at 51.31% of range. Val: -74.3458091281 Low: -100.0 High: -50.0
+g_pas in ['all'] at 76.81% of range. Val: 0.000153615600339 Low: 0 High: 0.0002
+sh_Na in ['all'] at 26.64% of range. Val: 2.66379295998 Low: 0 High: 10
+gbar_Na in ['all'] at 55.38% of range. Val: 0.0276881835173 Low: 0 High: 0.05
+gbar_Kd in ['all'] at 74.05% of range. Val: 0.0740461325078 Low: 0 High: 0.1
+gbar_KA in ['somatic'] at 73.35% of range. Val: 0.00733533371219 Low: 0 High: 0.01
+eh in ['somatic'] at 30.54% of range. Val: -39.3114218996 Low: -50.0 High: -15.0
+gbar_Ih in ['somatic'] at 90.98% of range. Val: 9.09818644976e-07 Low: 0 High: 1e-06
+gbar_KM in ['somatic'] at 47.90% of range. Val: 0.0622670574364 Low: 0 High: 0.13
+('GEN', 13, 'Parents', 4, 'Elite', 12, 'DIV', 6, 'RND', 6, 'TOT NEW', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+exp(724.147) out of range, returning exp(700)
+exp(720.68) out of range, returning exp(700)
+exp(713.99) out of range, returning exp(700)
+exp(707.542) out of range, returning exp(700)
+No more errno warnings during this execution
+('STARTED GEN', '13', 'size', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 1, 'of', 24, 'of GEN', '13', 'with Fitness', '11.62')
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 2, 'of', 24, 'of GEN', '13', 'with Fitness', '12.88')
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 3, 'of', 24, 'of GEN', '13', 'with Fitness', '10.44')
+('DONE with', 4, 'of', 24, 'of GEN', '13', 'with Fitness', '13.67')
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 5, 'of', 24, 'of GEN', '13', 'with Fitness', '25.22')
+('DONE with', 6, 'of', 24, 'of GEN', '13', 'with Fitness', '15.59')
+('DONE with', 7, 'of', 24, 'of GEN', '13', 'with Fitness', '8.09')
+('DONE with', 8, 'of', 24, 'of GEN', '13', 'with Fitness', '5.64')
+('DONE with', 9, 'of', 24, 'of GEN', '13', 'with Fitness', '15.29')
+('DONE with', 10, 'of', 24, 'of GEN', '13', 'with Fitness', '5.77')
+('DONE with', 11, 'of', 24, 'of GEN', '13', 'with Fitness', '10.04')
+('DONE with', 12, 'of', 24, 'of GEN', '13', 'with Fitness', '7.27')
+('DONE with', 13, 'of', 24, 'of GEN', '13', 'with Fitness', '5.08')
+('DONE with', 14, 'of', 24, 'of GEN', '13', 'with Fitness', '5.18')
+('DONE with', 15, 'of', 24, 'of GEN', '13', 'with Fitness', '4.98')
+('DONE with', 16, 'of', 24, 'of GEN', '13', 'with Fitness', '4.99')
+('DONE with', 17, 'of', 24, 'of GEN', '13', 'with Fitness', '10.73')
+('DONE with', 18, 'of', 24, 'of GEN', '13', 'with Fitness', '12.23')
+('DONE with', 19, 'of', 24, 'of GEN', '13', 'with Fitness', '9.78')
+('DONE with', 20, 'of', 24, 'of GEN', '13', 'with Fitness', '8.24')
+('DONE with', 21, 'of', 24, 'of GEN', '13', 'with Fitness', '4.92')
+('DONE with', 22, 'of', 24, 'of GEN', '13', 'with Fitness', '24.83')
+('DONE with', 23, 'of', 24, 'of GEN', '13', 'with Fitness', '4.92')
+('DONE with', 24, 'of', 24, 'of GEN', '13', 'with Fitness', '4.92')
+('Generation', 13, 'out of', 15, 'COMPLETE')
+('Best fitness:', 4.832704370014203)
+('Best individual', [0.9960639622599059, 12.55409383483079, 2.0448294681280075, 33.66240003652404, -55.90903617685623, -74.34580912814, 0.00015361560033859574, 2.6637929599760852, 0.027688183517322513, 0.07404613250784663, 0.007335333712185513, -39.3114218996433, 9.098186449756681e-07, 0.06226705743640313])
+diam in ['apical'] at 30.90% of range. Val: 0.99606396226 Low: 0.1 High: 3.0
+Ra in ['all'] at 50.36% of range. Val: 12.5540938348 Low: 5.0 High: 20.0
+cm in ['all'] at 49.87% of range. Val: 2.04482946813 Low: 0.1 High: 4.0
+ena in ['all'] at 59.16% of range. Val: 33.6624000365 Low: 10.0 High: 50.0
+ek in ['all'] at 62.99% of range. Val: -55.9090361769 Low: -100.0 High: -30.0
+e_pas in ['all'] at 51.31% of range. Val: -74.3458091281 Low: -100.0 High: -50.0
+g_pas in ['all'] at 76.81% of range. Val: 0.000153615600339 Low: 0 High: 0.0002
+sh_Na in ['all'] at 26.64% of range. Val: 2.66379295998 Low: 0 High: 10
+gbar_Na in ['all'] at 55.38% of range. Val: 0.0276881835173 Low: 0 High: 0.05
+gbar_Kd in ['all'] at 74.05% of range. Val: 0.0740461325078 Low: 0 High: 0.1
+gbar_KA in ['somatic'] at 73.35% of range. Val: 0.00733533371219 Low: 0 High: 0.01
+eh in ['somatic'] at 30.54% of range. Val: -39.3114218996 Low: -50.0 High: -15.0
+gbar_Ih in ['somatic'] at 90.98% of range. Val: 9.09818644976e-07 Low: 0 High: 1e-06
+gbar_KM in ['somatic'] at 47.90% of range. Val: 0.0622670574364 Low: 0 High: 0.13
+('GEN', 14, 'Parents', 4, 'Elite', 12, 'DIV', 6, 'RND', 6, 'TOT NEW', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('STARTED GEN', '14', 'size', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 1, 'of', 24, 'of GEN', '14', 'with Fitness', '8.18')
+('DONE with', 2, 'of', 24, 'of GEN', '14', 'with Fitness', '17.60')
+('DONE with', 3, 'of', 24, 'of GEN', '14', 'with Fitness', '5.56')
+('DONE with', 4, 'of', 24, 'of GEN', '14', 'with Fitness', '17.55')
+('DONE with', 5, 'of', 24, 'of GEN', '14', 'with Fitness', '16.96')
+('DONE with', 6, 'of', 24, 'of GEN', '14', 'with Fitness', '15.77')
+('DONE with', 7, 'of', 24, 'of GEN', '14', 'with Fitness', '10.32')
+('DONE with', 8, 'of', 24, 'of GEN', '14', 'with Fitness', '9.72')
+('DONE with', 9, 'of', 24, 'of GEN', '14', 'with Fitness', '22.71')
+('DONE with', 10, 'of', 24, 'of GEN', '14', 'with Fitness', '5.72')
+('DONE with', 11, 'of', 24, 'of GEN', '14', 'with Fitness', '5.82')
+('DONE with', 12, 'of', 24, 'of GEN', '14', 'with Fitness', '7.44')
+('DONE with', 13, 'of', 24, 'of GEN', '14', 'with Fitness', '9.70')
+('DONE with', 14, 'of', 24, 'of GEN', '14', 'with Fitness', '5.36')
+('DONE with', 15, 'of', 24, 'of GEN', '14', 'with Fitness', '14.08')
+('DONE with', 16, 'of', 24, 'of GEN', '14', 'with Fitness', '5.02')
+('DONE with', 17, 'of', 24, 'of GEN', '14', 'with Fitness', '4.92')
+('DONE with', 18, 'of', 24, 'of GEN', '14', 'with Fitness', '4.96')
+('DONE with', 19, 'of', 24, 'of GEN', '14', 'with Fitness', '5.03')
+('DONE with', 20, 'of', 24, 'of GEN', '14', 'with Fitness', '4.81')
+('DONE with', 21, 'of', 24, 'of GEN', '14', 'with Fitness', '4.92')
+('DONE with', 22, 'of', 24, 'of GEN', '14', 'with Fitness', '4.92')
+('DONE with', 23, 'of', 24, 'of GEN', '14', 'with Fitness', '4.93')
+('DONE with', 24, 'of', 24, 'of GEN', '14', 'with Fitness', '9.97')
+('Generation', 14, 'out of', 15, 'COMPLETE')
+('Best fitness:', 4.808438747631035)
+('Best individual', [0.9960639622599059, 12.55409383483079, 2.0448294681280075, 33.66240003652404, -55.90903617685623, -74.34580912814, 0.00015361560033859574, 2.6637929599760852, 0.027688183517322513, 0.0695695251185807, 0.0075519783923082805, -39.3114218996433, 9.098186449756681e-07, 0.06226705743640313])
+diam in ['apical'] at 30.90% of range. Val: 0.99606396226 Low: 0.1 High: 3.0
+Ra in ['all'] at 50.36% of range. Val: 12.5540938348 Low: 5.0 High: 20.0
+cm in ['all'] at 49.87% of range. Val: 2.04482946813 Low: 0.1 High: 4.0
+ena in ['all'] at 59.16% of range. Val: 33.6624000365 Low: 10.0 High: 50.0
+ek in ['all'] at 62.99% of range. Val: -55.9090361769 Low: -100.0 High: -30.0
+e_pas in ['all'] at 51.31% of range. Val: -74.3458091281 Low: -100.0 High: -50.0
+g_pas in ['all'] at 76.81% of range. Val: 0.000153615600339 Low: 0 High: 0.0002
+sh_Na in ['all'] at 26.64% of range. Val: 2.66379295998 Low: 0 High: 10
+gbar_Na in ['all'] at 55.38% of range. Val: 0.0276881835173 Low: 0 High: 0.05
+gbar_Kd in ['all'] at 69.57% of range. Val: 0.0695695251186 Low: 0 High: 0.1
+gbar_KA in ['somatic'] at 75.52% of range. Val: 0.00755197839231 Low: 0 High: 0.01
+eh in ['somatic'] at 30.54% of range. Val: -39.3114218996 Low: -50.0 High: -15.0
+gbar_Ih in ['somatic'] at 90.98% of range. Val: 9.09818644976e-07 Low: 0 High: 1e-06
+gbar_KM in ['somatic'] at 47.90% of range. Val: 0.0622670574364 Low: 0 High: 0.13
+('GEN', 15, 'Parents', 4, 'Elite', 12, 'DIV', 6, 'RND', 6, 'TOT NEW', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('STARTED GEN', '15', 'size', 24)
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 1, 'of', 24, 'of GEN', '15', 'with Fitness', '15.02')
+('DONE with', 2, 'of', 24, 'of GEN', '15', 'with Fitness', '14.68')
+('DONE with', 3, 'of', 24, 'of GEN', '15', 'with Fitness', '12.30')
+('DONE with', 4, 'of', 24, 'of GEN', '15', 'with Fitness', '14.54')
+('DONE with', 5, 'of', 24, 'of GEN', '15', 'with Fitness', '14.27')
+('DONE with', 6, 'of', 24, 'of GEN', '15', 'with Fitness', '10.18')
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+loading membrane mechanisms from x86_64/.libs/libnrnmech.so
+Additional mechanisms from files
+ CaPool.mod CaT.mod Ih.mod KA.mod KCa.mod Kd.mod KM.mod Kslow.mod LCa.mod Na.mod
+('DONE with', 7, 'of', 24, 'of GEN', '15', 'with Fitness', '9.99')
+('DONE with', 8, 'of', 24, 'of GEN', '15', 'with Fitness', '9.87')
+('DONE with', 9, 'of', 24, 'of GEN', '15', 'with Fitness', '5.36')
+('DONE with', 10, 'of', 24, 'of GEN', '15', 'with Fitness', '15.06')
+('DONE with', 11, 'of', 24, 'of GEN', '15', 'with Fitness', '9.81')
+('DONE with', 12, 'of', 24, 'of GEN', '15', 'with Fitness', '13.63')
+('DONE with', 13, 'of', 24, 'of GEN', '15', 'with Fitness', '9.95')
+('DONE with', 14, 'of', 24, 'of GEN', '15', 'with Fitness', '5.12')
+('DONE with', 15, 'of', 24, 'of GEN', '15', 'with Fitness', '5.03')
+('DONE with', 16, 'of', 24, 'of GEN', '15', 'with Fitness', '5.71')
+('DONE with', 17, 'of', 24, 'of GEN', '15', 'with Fitness', '12.51')
+('DONE with', 18, 'of', 24, 'of GEN', '15', 'with Fitness', '4.85')
+('DONE with', 19, 'of', 24, 'of GEN', '15', 'with Fitness', '4.92')
+('DONE with', 20, 'of', 24, 'of GEN', '15', 'with Fitness', '5.22')
+('DONE with', 21, 'of', 24, 'of GEN', '15', 'with Fitness', '15.58')
+('DONE with', 22, 'of', 24, 'of GEN', '15', 'with Fitness', '17.60')
+('DONE with', 23, 'of', 24, 'of GEN', '15', 'with Fitness', '10.66')
+('DONE with', 24, 'of', 24, 'of GEN', '15', 'with Fitness', '10.39')
+('Generation', 15, 'out of', 15, 'COMPLETE')
+('Best fitness:', 4.808438747631035)
+('Best individual', [0.9960639622599059, 12.55409383483079, 2.0448294681280075, 33.66240003652404, -55.90903617685623, -74.34580912814, 0.00015361560033859574, 2.6637929599760852, 0.027688183517322513, 0.0695695251185807, 0.0075519783923082805, -39.3114218996433, 9.098186449756681e-07, 0.06226705743640313])
+diam in ['apical'] at 30.90% of range. Val: 0.99606396226 Low: 0.1 High: 3.0
+Ra in ['all'] at 50.36% of range. Val: 12.5540938348 Low: 5.0 High: 20.0
+cm in ['all'] at 49.87% of range. Val: 2.04482946813 Low: 0.1 High: 4.0
+ena in ['all'] at 59.16% of range. Val: 33.6624000365 Low: 10.0 High: 50.0
+ek in ['all'] at 62.99% of range. Val: -55.9090361769 Low: -100.0 High: -30.0
+e_pas in ['all'] at 51.31% of range. Val: -74.3458091281 Low: -100.0 High: -50.0
+g_pas in ['all'] at 76.81% of range. Val: 0.000153615600339 Low: 0 High: 0.0002
+sh_Na in ['all'] at 26.64% of range. Val: 2.66379295998 Low: 0 High: 10
+gbar_Na in ['all'] at 55.38% of range. Val: 0.0276881835173 Low: 0 High: 0.05
+gbar_Kd in ['all'] at 69.57% of range. Val: 0.0695695251186 Low: 0 High: 0.1
+gbar_KA in ['somatic'] at 75.52% of range. Val: 0.00755197839231 Low: 0 High: 0.01
+eh in ['somatic'] at 30.54% of range. Val: -39.3114218996 Low: -50.0 High: -15.0
+gbar_Ih in ['somatic'] at 90.98% of range. Val: 9.09818644976e-07 Low: 0 High: 1e-06
+gbar_KM in ['somatic'] at 47.90% of range. Val: 0.0622670574364 Low: 0 High: 0.13
