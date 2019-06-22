@@ -1,0 +1,38 @@
+NEURON -- VERSION 7.5 master (6b4c19f) 2017-09-25
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2016
+See http://neuron.yale.edu/neuron/credits
+
+]0;IPython: OlfactoryBulb/notebooksCould not load NEURONBackend
+Could not load GLIFBackend
+2
+('Starting gc FITTER for model:', 'prev_ob_models.Birgiolas2020.isolated_cells.GC2')
+[0;31m[0m
+[0;31mTypeError[0mTraceback (most recent call last)
+[0;32m/home/ubuntu/OlfactoryBulb/notebooks/fitting.py[0m in [0;36m<module>[0;34m()[0m
+[1;32m     28[0m [0;34m[0m[0m
+[1;32m     29[0m [0mfitter[0m[0;34m.[0m[0mclear_cache[0m[0;34m([0m[0;34m)[0m[0;34m[0m[0m
+[0;32m---> 30[0;31m [0mfitter[0m[0;34m.[0m[0mfit[0m[0;34m([0m[0mmultiprocessing[0m[0;34m.[0m[0mcpu_count[0m[0;34m([0m[0;34m)[0m[0;34m*[0m[0;36m1.5[0m[0;34m,[0m [0;36m15[0m[0;34m)[0m[0;34m[0m[0m
+[0m[1;32m     31[0m [0;34m[0m[0m
+
+[0;32m/home/ubuntu/OlfactoryBulb/prev_ob_models/Birgiolas2020/fitting.pyc[0m in [0;36mfit[0;34m(self, generation_size, number_of_generations)[0m
+[1;32m    340[0m             [0;32mraise[0m [0mException[0m[0;34m([0m[0;34m"Number of generations must be 0 or more"[0m[0;34m)[0m[0;34m[0m[0m
+[1;32m    341[0m [0;34m[0m[0m
+[0;32m--> 342[0;31m         [0mself[0m[0;34m.[0m[0mpop[0m [0;34m=[0m [0mself[0m[0;34m.[0m[0mGA[0m[0;34m([0m[0mself[0m[0;34m.[0m[0mtop[0m [0;32mif[0m [0mhasattr[0m[0;34m([0m[0mself[0m[0;34m,[0m [0;34m"top"[0m[0;34m)[0m [0;32melse[0m [0mNone[0m[0;34m,[0m [0mgeneration_size[0m[0;34m,[0m [0mnumber_of_generations[0m[0;34m)[0m[0;34m[0m[0m
+[0m[1;32m    343[0m [0;34m[0m[0m
+[1;32m    344[0m     [0;32mdef[0m [0mGA[0m[0;34m([0m[0mself[0m[0;34m,[0m [0msuggested_pop[0m[0;34m=[0m[0mNone[0m[0;34m,[0m [0mn[0m[0;34m=[0m[0;36m30[0m[0;34m,[0m [0mNGEN[0m[0;34m=[0m[0;36m30[0m[0;34m)[0m[0;34m:[0m[0;34m[0m[0m
+
+[0;32m/home/ubuntu/OlfactoryBulb/prev_ob_models/Birgiolas2020/fitting.pyc[0m in [0;36mGA[0;34m(self, suggested_pop, n, NGEN)[0m
+[1;32m    356[0m [0;34m[0m[0m
+[1;32m    357[0m         [0;32mif[0m [0msuggested_pop[0m [0;32mis[0m [0mNone[0m[0;34m:[0m[0;34m[0m[0m
+[0;32m--> 358[0;31m             [0mself[0m[0;34m.[0m[0mpop[0m [0;34m=[0m [0mtoolbox[0m[0;34m.[0m[0mpopulation[0m[0;34m([0m[0mn[0m[0;34m=[0m[0mn[0m[0;34m)[0m[0;34m[0m[0m
+[0m[1;32m    359[0m         [0;32melse[0m[0;34m:[0m[0;34m[0m[0m
+[1;32m    360[0m             [0mself[0m[0;34m.[0m[0mpop[0m [0;34m=[0m [0;34m[[0m[0mcreator[0m[0;34m.[0m[0mIndividual[0m[0;34m([0m[0mi[0m[0;34m)[0m [0;32mfor[0m [0mi[0m [0;32min[0m [0msuggested_pop[0m[0;34m][0m[0;34m[0m[0m
+
+[0;32m/home/ubuntu/miniconda2/lib/python2.7/site-packages/deap/tools/init.pyc[0m in [0;36minitRepeat[0;34m(container, func, n)[0m
+[1;32m     21[0m     [0mSee[0m [0mthe[0m [0;34m:[0m[0mref[0m[0;34m:[0m[0;34m`[0m[0mlist[0m[0;34m-[0m[0mof[0m[0;34m-[0m[0mfloats[0m[0;34m`[0m [0;32mand[0m [0;34m:[0m[0mref[0m[0;34m:[0m[0;34m`[0m[0mpopulation[0m[0;34m`[0m [0mtutorials[0m [0;32mfor[0m [0mmore[0m [0mexamples[0m[0;34m.[0m[0;34m[0m[0m
+[1;32m     22[0m     """
+[0;32m---> 23[0;31m     [0;32mreturn[0m [0mcontainer[0m[0;34m([0m[0mfunc[0m[0;34m([0m[0;34m)[0m [0;32mfor[0m [0m_[0m [0;32min[0m [0mxrange[0m[0;34m([0m[0mn[0m[0;34m)[0m[0;34m)[0m[0;34m[0m[0m
+[0m[1;32m     24[0m [0;34m[0m[0m
+[1;32m     25[0m [0;32mdef[0m [0minitIterate[0m[0;34m([0m[0mcontainer[0m[0;34m,[0m [0mgenerator[0m[0;34m)[0m[0;34m:[0m[0;34m[0m[0m
+
+[0;31mTypeError[0m: integer argument expected, got float
